@@ -23,8 +23,9 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-
+### Desktop View
 ![Desktop View](./stats-preview-card-component-main/images/desktopView.png)
+### Mobile View
 ![Mobile View](./stats-preview-card-component-main/images/mobileView.png)
 
  
