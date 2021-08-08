@@ -15,20 +15,17 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
 
-Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
 
-[Desktop View](./images/desktopView.png)
-[Mobile View](./images/mobileView.png)
+![Desktop View](./images/desktopView.png)
+![Mobile View](./images/mobileView.png)
 
  
 
@@ -63,7 +60,6 @@ This will simply reverse the column order.
 I have to concentrate much on responsive part . 
 
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
