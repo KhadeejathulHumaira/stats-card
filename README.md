@@ -33,7 +33,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Links
 
 - Solution URL: [GitHub](https://github.com/KhadeejathulHumaira/stats-card)
-- Live Site URL: [Live Website](https://your-live-site-url.com)
+- Live Site URL: [Live Website](https://statscardhumaira.netlify.app/)
 
 ## My process
 
