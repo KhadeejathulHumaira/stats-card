@@ -24,8 +24,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Screenshot
 
-![Desktop View](.stats-preview-card-component-main./images/desktopView.png)
-![Mobile View](.stats-preview-card-component-main./images/mobileView.png)
+![Desktop View](.stats-preview-card-component-main/images/desktopView.png)
+![Mobile View](.stats-preview-card-component-main/images/mobileView.png)
 
  
 
